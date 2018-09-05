@@ -25,6 +25,7 @@ if (uppercase.toUpperCase() === uppercase) {
 else if (lowercase.toLowerCase() === lowercase) {
   return "YES INDEED!"
 }
-else if ("I love you, Grandma)"
+else if ("I love you, Grandma"){
   return "I love you, too."
+}
 }
