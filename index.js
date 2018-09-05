@@ -19,12 +19,11 @@ var uppercase = "HELLO!"
 var lowercase = 'hello!'
 var mixedCase = 'Hi there!'
 
-if () {
+if (uppercase.toUpperCase() === uppercase) {
   return "I can\'t hear you!"
 }
-else if () {
+else if (lowercase.toLowerCase() === lowercase) {
   return "YES INDEED!"
 }
- 
   return "I love you, too."
 }
